@@ -4,4 +4,4 @@ IBM Digital Health Pass defines and builds an infrastructure for managing health
 
 ## Documentation
 
-- [DID Method specification](https://github.ibm.com/fabric-security-research/hpass/blob/master/doc/did-spec.md)
+- [DID Method specification](https://github.com/IBM/hpass/blob/main/doc/did-spec.md)
