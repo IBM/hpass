@@ -278,4 +278,4 @@ We note that the entities that receive DIDs in IBM Digital Health Pass are Healt
  
 In particular, no information related to end users or their credentials is written into the DID Documents.
 
-Shall any extra information be needed to be made available through the DID Document of a Health Issuer (e.g., some miscellaneous information for accessing extra services provided by the Health Issuer), this should be referenced from a `ServiceEndpoint` property. This is, however, not required information that is stored off-chain and thus is not subject to the immutability properties of Hyperleder Fabric.
+Shall any extra information be needed to be made available through the DID Document of a Health Credential Issuer (e.g., some miscellaneous information for accessing extra services provided by the Health Credential Issuer), this should be referenced from a `ServiceEndpoint` property. This is, however, not required information that is stored off-chain and thus is not subject to the immutability properties of Hyperleder Fabric.
