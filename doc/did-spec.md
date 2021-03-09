@@ -274,7 +274,7 @@ lead to the same DID.
 
 DID documents in the hpass method do not include any PII, as required by the DID core specification, and recommended for privacy reasons.
 
-We note that the entities that receive DIDs in IBM Digital Health Pass are Health Issuers, which are public (or publicly known) entities. The only information related to these entities that is written into the DID Documents, and accessible directly from the Hyperledger Fabric network, is their public key, which by definition poses no privacy risk on its own.
+We note that the entities that receive DIDs in IBM Digital Health Pass are Health Credential Issuers, which are public (or publicly known) entities. The only information related to these entities that is written into the DID Documents, and accessible directly from the Hyperledger Fabric network, is their public key, which by definition poses no privacy risk on its own.
  
 In particular, no information related to end users or their credentials is written into the DID Documents.
 
