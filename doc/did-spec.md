@@ -1,4 +1,4 @@
-# IBM Digital Health Pass DID method (_hpass_)
+# IBM Digital Health Pass DID method (_IBM hpass_)
 
 This document is licensed under  a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 
